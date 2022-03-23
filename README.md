@@ -63,3 +63,27 @@
 * 신고하기 기능
 * sb2, ent 파일 실행 기능
 * 다양한 배지, 업적
+
+### 코드 컨벤션
+* Python
+  *  변수, 함수, 메서드 네이밍은 underscore
+  *  클래스 네이밍은 IntitialCaps
+  *  단따옴표 사용. 문자열이 단따옴표를 포함하는 경우에만 쌍따옴표 사용
+  *  디테일한 python, django 컨벤션은 다음 문서를 따름 (https://candypoplatte.github.io/2018/10/10/django_coding_style/)
+* JavaScript
+  *  변수, 함수, 객체 네이밍은 lowerCamelCase
+  *  클래스 네이밍은 PascalCase
+  *  디테일한 JavaScript 컨벤션은 다음 문서를 따름(https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-1%ED%8E%B8)
+* HTML, CSS
+  * BEM 방법론 사용(Block, Element, Modifier)
+  * double underscore와 double dash를 이용하여, Block, Element, Modifier를 구분 짓고, 위계화 하여 컴포넌트화 한다.
+
+### 커밋메시지 컨벤션
+* ✨ [FEAT] : 새로운 기능 구현
+* 🛠 [FIX] : 버그 수정
+* 🖋 [UPDATE]: 코드 수정, 내부 파일 수정
+* ➕ [ADD] : FEAT 이외의 부수적인 코드 추가, 새로운 파일 추가
+* 📜 [DOCS] : 주석 수정, 출력 메시지 수정 등 간단한 문서 수정
+* 🎨 [DESIGN] : CSS 등 사용자 UI 디자인 변경
+* 🧱 [REFACTOR] : 코드 리팩토링
+* 💬 [ETC] : 파일명, 폴더명 수정 OR 파일, 폴더 삭제 OR 디렉터리 구조 변경
