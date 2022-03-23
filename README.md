@@ -93,6 +93,7 @@
 #### Main
 ![main](https://user-images.githubusercontent.com/87005840/159620973-4c656b05-827a-47ab-bbc1-6bd35ed0eedd.png)
 
+![image](https://user-images.githubusercontent.com/87005840/159621075-2e450951-5826-48cb-aaa2-03c2028074b2.png)
 
 ## Tools
 * Python/Django
