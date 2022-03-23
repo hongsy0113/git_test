@@ -1,4 +1,5 @@
 도와줘코딩 readme 연습
+![도와줘코딩-readme-섬네일-001](https://user-images.githubusercontent.com/87005840/159614128-3c6211e8-6b42-4ca5-8376-4e196f553950.png)
 
 
 # 기획의도
