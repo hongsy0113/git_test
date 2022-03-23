@@ -88,7 +88,7 @@
 * 🧱 [REFACTOR] : 코드 리팩토링
 * 💬 [ETC] : 파일명, 폴더명 수정 OR 파일, 폴더 삭제 OR 디렉터리 구조 변경
 
-# Tools
+## Tools
 * Python/Django
 * HTML/CSS/JavaScript
 * AWS EC2(Ubuntu)
@@ -100,7 +100,7 @@
 * Gather
 * GitKraken
 
-# 도와줘, 코딩을 만든 사람들
+## 도와줘, 코딩을 만든 사람들
 ##### 홍성윤
 
 ##### 길은지
