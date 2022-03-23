@@ -91,9 +91,20 @@
 
 ## 예시 페이지
 #### Main
-![main](https://user-images.githubusercontent.com/87005840/159620973-4c656b05-827a-47ab-bbc1-6bd35ed0eedd.png)
-
 ![image](https://user-images.githubusercontent.com/87005840/159621075-2e450951-5826-48cb-aaa2-03c2028074b2.png)
+#### 묻고답하기
+![qna게시글목록](https://user-images.githubusercontent.com/87005840/159621142-df8dc50c-8c44-45f2-af97-cfdc8e1128c5.png)
+![qna게시글생성](https://user-images.githubusercontent.com/87005840/159621148-16636b34-0f14-4108-a321-b03aab35d023.png)
+![qna게시글디테일](https://user-images.githubusercontent.com/87005840/159621150-5b6f7370-8e3e-4a91-8d51-4a7d5e5c69b0.png)
+#### 그룹
+![그룹디테일](https://user-images.githubusercontent.com/87005840/159621181-5b6b530c-0fab-4539-8a1e-2f213afc6c07.png)
+![그룹게시글목록](https://user-images.githubusercontent.com/87005840/159621211-681a0600-524b-4d81-af03-5cb6e19b2578.png)
+![그룹게시글디테일](https://user-images.githubusercontent.com/87005840/159621213-36aa00c8-5bcd-4cf7-a8a9-bc57f7380d26.png)
+#### 마이페이지
+![마이페이지](https://user-images.githubusercontent.com/87005840/159621228-ad846609-38ef-4283-9bca-4819e45c0642.JPG)
+![알림](https://user-images.githubusercontent.com/87005840/159621237-3b1e8911-386b-481f-8d50-918350978f95.JPG)
+
+
 
 ## Tools
 * Python/Django
