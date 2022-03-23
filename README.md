@@ -1,6 +1,6 @@
-도와줘코딩 readme 연습
+# 도와줘,코딩
 ![도와줘코딩-readme-섬네일-001](https://user-images.githubusercontent.com/87005840/159614128-3c6211e8-6b42-4ca5-8376-4e196f553950.png)
-
+[도와줘,코딩](https://help-coding.com)
 
 # 기획의도
 코딩 교육이 활성화되면서 코딩을 공부하는 어린이, 청소년들이 많아지고 있습니다.
