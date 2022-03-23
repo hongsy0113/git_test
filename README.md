@@ -49,10 +49,8 @@
 
 # version
 
-* ver.1.0.0(2022/2/20): 
-  Django, HTML with Django Template, CSS, Vanila JavaScript, AWS
-* ver.1.0.1(2022/2/24): 
-  그룹게시판 iframe 오류 수정. 그룹게시판 iframe, 섬네일 이미지 로딩 지연 문제 해결. 질문 답변 여부 필터 오류 수정
+* ver.1.0.0(2022/2/20): <br/>Django, HTML with Django Template, CSS, Vanila JavaScript, AWS
+* ver.1.0.1(2022/2/24): 그룹게시판 iframe 오류 수정. 그룹게시판 iframe, 섬네일 이미지 로딩 지연 문제 해결. 질문 답변 여부 필터 오류 수정
 * ver.1.1.0(2022/3/12): 검색엔진 최적화. 트위터/페이스북/카카오톡 공유 HTML meta tag 추가
 * ver.1.1.1(2022/3/13): 한글명 파일 다운로드 시 파일명,확장자 바뀌는 문제 해결
 * ver.1.2.0(2022/3/13): 게시글의 해시태그 클릭 시 해당 태그가진 게시글 목록으로 이동 기능 추가
