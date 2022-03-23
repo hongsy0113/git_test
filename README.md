@@ -89,6 +89,11 @@
 * 🧱 [REFACTOR] : 코드 리팩토링
 * 💬 [ETC] : 파일명, 폴더명 수정 OR 파일, 폴더 삭제 OR 디렉터리 구조 변경
 
+## 예시 페이지
+#### Main
+![main](https://user-images.githubusercontent.com/87005840/159620973-4c656b05-827a-47ab-bbc1-6bd35ed0eedd.png)
+
+
 ## Tools
 * Python/Django
 * HTML/CSS/JavaScript
@@ -148,4 +153,5 @@
 
 ## Contact Us
 helpcoding22@gmail.com
+
 hsy0113@korea.ac.kr
