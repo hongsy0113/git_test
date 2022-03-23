@@ -87,3 +87,26 @@
 * 🎨 [DESIGN] : CSS 등 사용자 UI 디자인 변경
 * 🧱 [REFACTOR] : 코드 리팩토링
 * 💬 [ETC] : 파일명, 폴더명 수정 OR 파일, 폴더 삭제 OR 디렉터리 구조 변경
+
+# Tools
+* Python/Django
+* HTML/CSS/JavaScript
+* AWS EC2(Ubuntu)
+* AWS RDS(MySQL)
+* Notion
+* Slack
+* Figma
+* Zoom
+* Gather
+* GitKraken
+
+# 도와줘, 코딩을 만든 사람들
+##### 홍성윤
+
+##### 길은지
+
+##### 박찬영
+
+##### 권윤
+
+##### 박예준
