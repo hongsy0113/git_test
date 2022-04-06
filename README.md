@@ -77,6 +77,13 @@ Password: demo1234
 * sb2, ent 파일 실행 기능
 * 다양한 배지, 업적
 
+# 데이터베이스 ERD
+
+[ERD 링크](https://www.erdcloud.com/d/bty4ndmQKuwNhhBNC)
+
+![image](https://user-images.githubusercontent.com/87005840/162022219-023f6670-a1d3-4482-a541-e2d242f152f9.png)
+
+
 ### 코드 컨벤션
 * Python
   *  변수, 함수, 메서드 네이밍은 underscore
